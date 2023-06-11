@@ -9,10 +9,6 @@
 
 - 👯 I’m looking to collaborate on [DevSensei: API testing tool](https://github.com/duckduckcodes/devsensei)
 
-- 👨‍💻 All of my projects are available at [https://moussacodes.fr/](https://moussacodes.fr/)
-
-- 📝 I regularly write articles on [https://moussacodes.fr/blog](https://moussacodes.fr/blog)
-
 - 💬 Ask me about **React, Next.js, Nest js, javascript**
 
 - 📫 How to reach me **moussacodes@proton.me**
