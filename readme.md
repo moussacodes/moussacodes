@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, Next.js, Nest js, javascript**
 
-- 📫 How to reach me **moussacodes@proton.me**
-
 - ⚡ Fun fact **The average smartphone today has more computing power than NASA's Apollo 11 guidance computer that helped land astronauts on the moon.**
 
 <h3 align="left">Connect with me:</h3>
