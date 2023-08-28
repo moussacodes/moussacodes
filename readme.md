@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duckduckcodes&label=Profile%20views&color=0e75b6&style=flat" alt="duckduckcodes" /> </p>
 
-- 🔭 I’m currently working on [Haifa: a programming language for config files](https://github.com/Haifa-lang/Haifa)
+- 🔭 I’m currently working on [Oran: a programming language](https://github.com/Oran)
 
 - 🌱 I’m currently learning **Solidity, Graphql, Rust, Flutter**
 
